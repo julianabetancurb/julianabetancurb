@@ -41,6 +41,8 @@
 
 ###
 
+<br clear="both">
+
 <img src="https://raw.githubusercontent.com/julianabetancurb/julianabetancurb/output/snake.svg" alt="Snake animation" />
 
 ###
